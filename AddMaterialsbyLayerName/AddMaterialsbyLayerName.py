@@ -2,7 +2,7 @@ import rhinoscriptsyntax as rs
 import random
 
 #author Mesut Sallah
-#02.14.2021
+#date February 2021
 
 def randomColor():
     R = random.randint(0, 255)
